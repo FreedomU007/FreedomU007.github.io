@@ -1,0 +1,1 @@
+Start hexo for blog.

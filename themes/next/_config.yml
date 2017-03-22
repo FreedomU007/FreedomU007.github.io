@@ -288,10 +288,10 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: xuzhou007
+# duoshuo_shortname: xuzhou007
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: freedomu007-github-io
 
 # Hypercomments
 #hypercomments_id:
